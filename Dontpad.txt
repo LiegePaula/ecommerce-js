@@ -4,6 +4,8 @@ Token: 8865
 -------------------------------------------------------------------------------------------------------
 Codigo da Aula Passada:
 https://github.com/Davi-Classes/JAVASCRIPT2025-DFS707/tree/main/Aula%2015
+https://github.com/Davi-Classes/JAVASCRIPT2025-DFS707/tree/main/Aula%2015
+https://github.com/Davi-Classes/ecommerce-js
 
 
 -----------------------------------------------------------------------------------------------------------------
