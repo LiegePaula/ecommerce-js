@@ -9,3 +9,8 @@ digitar no terminal: npm i - para rodae na maquina
 rodar no terminal : node server.js  para rodar a aplicação
 
 ctrl + C para parar de rodar a aplicação
+
+
+
+vercel para publicar
+
